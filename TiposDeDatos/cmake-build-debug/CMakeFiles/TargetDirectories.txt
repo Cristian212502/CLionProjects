@@ -1,0 +1,3 @@
+C:/Users/cristian/OneDrive/Documentos/Escritorio/CLionProjects/TiposDeDatos/cmake-build-debug/CMakeFiles/TiposDeDatos.dir
+C:/Users/cristian/OneDrive/Documentos/Escritorio/CLionProjects/TiposDeDatos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cristian/OneDrive/Documentos/Escritorio/CLionProjects/TiposDeDatos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
